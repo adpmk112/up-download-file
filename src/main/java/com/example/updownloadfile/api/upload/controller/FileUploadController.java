@@ -1,5 +1,7 @@
-package com.example.updownloadfile.api.upload;
+package com.example.updownloadfile.api.upload.controller;
 
+import com.example.updownloadfile.api.upload.FileUploadResponse;
+import com.example.updownloadfile.api.upload.utility.FileUploadUtil;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.util.StringUtils;

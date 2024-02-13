@@ -1,5 +1,6 @@
-package com.example.updownloadfile.api.download;
+package com.example.updownloadfile.api.download.controller;
 
+import com.example.updownloadfile.api.download.utility.FileDownloadUtil;
 import org.springframework.core.io.Resource;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;

@@ -1,4 +1,4 @@
-package com.example.updownloadfile.api.upload;
+package com.example.updownloadfile.api.upload.utility;
 
 import org.apache.commons.lang3.RandomStringUtils;
 import org.springframework.web.multipart.MultipartFile;
